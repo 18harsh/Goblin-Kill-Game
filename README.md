@@ -6,3 +6,7 @@ It is a very basic game to get fimiliar with pygame (images, audio, how to shoot
 Python 3.x
 
 pygame
+
+# To see how the above code look like, click on the link below
+
+https://github.com/18harsh/Goblin-Kill-Game/blob/master/Screenshot.pdf
